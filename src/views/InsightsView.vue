@@ -1,0 +1,1 @@
+<template><section class="panel insight"><span class="eyebrow">Disclosure guidance</span><h2>Every commercial post needs a prominent label, identifiable sponsor, substantiated claim and protection for vulnerable audiences</h2><p>Creators, agencies, platforms and authorities can align reviews while preserving accountable ownership.</p></section></template>
